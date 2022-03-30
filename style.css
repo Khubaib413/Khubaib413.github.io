@@ -1,0 +1,181 @@
+.div-1
+{
+    width: 34%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+}
+.div-2
+{
+    position: absolute;
+    width: 98px;
+    top: 19px;
+    left: 520px;
+    border-radius: 50px;
+    border: 1px solid;
+    padding: 0;
+    margin: auto;
+}
+.div-3
+{
+    position: absolute;
+    width: 98px;
+    top: 110px;
+    left: 520px;    
+}
+.div-4
+{
+    position: absolute;
+    width: 90px;
+    top: 140px;
+    left: 520px;  
+    padding: auto;
+}
+.div-5
+{
+    position: absolute;
+    width: 90px;
+    top: 170px;
+    left: 508px;  
+    font-size: 13px;
+    padding: auto;
+}
+#div-6
+{
+    position: absolute;
+    width: 100%;
+    top: 200px;
+    left: 510px;  
+    font-size: 11px;
+    padding: auto;
+}
+.div-7
+{
+    position: absolute;
+    width: 100%;
+    top: 250px;
+    left: 520px;
+    font-size: 13px;
+}
+.div-8
+{
+    position: absolute;
+    width: 100%;
+    top: 507px;
+    left: 520px;
+    font-size: 13px;
+}
+.div-9
+{
+    position: absolute;
+    width: 100%;
+    top: 665px;
+    left: 520px;
+    font-size: 13px;
+}
+.div-10
+{
+    position: absolute;
+    width: 100%;
+    top: -10px;
+    left: 660px;
+    font-size: 22px; 
+}
+#line
+{
+    text-decoration: underline;
+}
+.name
+{
+    position: absolute;
+    width: 100%;
+    top: 60px;
+    left: 660px;
+    font-size: 20px;
+    font-variant: small-caps;
+}
+h2.heading
+{
+    position: absolute;
+    width: 100%;
+    top: 60px;
+    left: 50px;
+    font-size: 20px;
+    font-variant: small-caps;
+}
+.about
+{
+    position: absolute;
+    width: 100%;
+    top: 160px;
+    left: 655px;
+    font-size: 16px;
+    font-variant: small-caps;
+    text-decoration: underline;
+}
+.aboutparagraph
+{
+    position: absolute;
+    width: 100%;
+    top: 183px;
+    left: 655px;
+    font-size: 15px;
+    
+}
+.exp
+{
+    position: absolute;
+    width: 100%;
+    top: 260px;
+    left: 655px;
+    font-size: 16px;
+    font-variant: small-caps;
+    text-decoration: underline;
+}
+.list
+{
+    position: absolute;
+    width: 100%;
+    top: 280px;
+    left: 655px;
+    font-size: 15px;
+}
+.pro
+{
+    position: absolute;
+    width: 100%;
+    top: 390px;
+    left: 655px;
+    font-size: 16px;
+    font-variant: small-caps;
+    text-decoration: underline;
+}
+.list2
+{
+    position: absolute;
+    width: 100%;
+    top: 410px;
+    left: 655px;
+    font-size: 15px;
+    line-height: 1.6;
+}
+.language
+{
+    position: absolute;
+    width: 100%;
+    top: 530px;
+    left: 655px;
+    font-size: 16px;
+    font-variant: small-caps;
+    text-decoration: underline;  
+}
+.lang
+{
+    position: absolute;
+    width: 100%;
+    top: 550px;
+    left: 655px;
+    font-size: 15px;
+    line-height: 1.6;
+}
